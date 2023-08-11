@@ -1,1 +1,2 @@
 # SSJ_StrawHats_Project
+//THIS IS OUR PROJECT READ ME
